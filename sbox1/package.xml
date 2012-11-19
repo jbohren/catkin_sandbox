@@ -1,0 +1,10 @@
+<package>
+  <name>sbox1</name>
+  <version>0.1.0</version>
+  <description>
+    This package only exports a header file.
+  </description>
+  <maintainer email="jbo@jhu.edu">Jonathan Bohren</maintainer>
+  <license>BSD</license>
+</package>
+

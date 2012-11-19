@@ -1,0 +1,12 @@
+<package>
+  <name>sbox2</name>
+  <version>0.1.0</version>
+  <description>
+    This package exports a header and a library.
+  </description>
+  <maintainer email="jbo@jhu.edu">Jonathan Bohren</maintainer>
+  <license>BSD</license>
+
+  <build_depend>sbox1</build_depend>
+</package>
+
