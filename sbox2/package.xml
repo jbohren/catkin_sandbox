@@ -8,6 +8,10 @@
   <license>BSD</license>
 
   <build_depend>sbox1</build_depend>
+
+  <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+  <!-- It's not obvious why this is needed -->
   <run_depend>sbox1</run_depend>
+  <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 </package>
 
