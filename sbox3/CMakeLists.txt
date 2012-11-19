@@ -8,3 +8,4 @@ catkin_package(
 
 include_directories(include ${catkin_INCLUDE_DIRS})
 add_executable(sbox3 sbox3.cpp)
+target_link_libraries(sbox3 sbox2)

@@ -8,5 +8,6 @@
   <license>BSD</license>
 
   <build_depend>sbox1</build_depend>
+  <run_depend>sbox1</run_depend>
 </package>
 
