@@ -9,5 +9,8 @@
 
   <build_depend>sbox2</build_depend>
   <run_depend>sbox2</run_depend>
+
+  <build_depend>sbox2_alt</build_depend>
+  <run_depend>sbox2_alt</run_depend>
 </package>
 

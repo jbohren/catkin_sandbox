@@ -1,0 +1,17 @@
+<package>
+  <name>sbox2_alt</name>
+  <version>0.1.0</version>
+  <description>
+    This package exports a header and a library.
+  </description>
+  <maintainer email="jbo@jhu.edu">Jonathan Bohren</maintainer>
+  <license>BSD</license>
+
+  <build_depend>sbox1</build_depend>
+
+  <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+  <!-- It's not obvious why this is needed -->
+  <!-- run_depend>sbox1</run_depend -->
+  <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+</package>
+
